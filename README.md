@@ -130,6 +130,7 @@ superstore_clean.csv
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 - Jupyter Notebook
 - Looker Studio
 
