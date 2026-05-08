@@ -158,6 +158,30 @@ O dataset tratado foi preparado para integração com:
 
 ---
 
+## Dashboard Interativo
+
+O dashboard interativo foi desenvolvido no Looker Studio para análise visual dos principais indicadores de vendas, lucratividade, logística e performance comercial.
+
+Acesse o dashboard aqui:  
+🔗 **[Visualizar Dashboard no Looker Studio](https://datastudio.google.com/s/uOQ_KtRyD08)**
+
+### Principais análises disponíveis
+- KPIs de Receita, Lucro, Margem e Quantidade Vendida
+- Evolução temporal de vendas
+- Análise de lucro e prejuízo por categoria e subcategoria
+- Distribuição logística e tempo médio de envio
+- Performance por região, estado e segmento de clientes
+
+### Filtros disponíveis
+- Período
+- Região
+- Estado
+- Categoria
+- Subcategoria
+- Segmento
+- Modal de envio
+- Status financeiro (Lucro / Prejuízo)
+
 ## 🚀 Como Executar o Projeto
 
 ### 1. Clone o repositório
